@@ -1,0 +1,1 @@
+# ck-run smoke outputs
